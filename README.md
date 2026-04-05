@@ -20,8 +20,10 @@ El algoritmo calcula el número de conjuntos independientes (conjuntos de vérti
 
 ## Instalación
 
-1.- Descarga el ejececutable [Ejecutable](main.exe)
+1.- Descarga el ejecutable [Ejecutable](main.exe)
+
 2.- Doble clic sobre el ejecutable
+
 3.- Listo puede empezar a utilizar el proyecto.
 
 ## Uso
