@@ -16,21 +16,13 @@ El algoritmo calcula el número de conjuntos independientes (conjuntos de vérti
 
 ## Requisitos
 
-- Python 3.7 o superior
-- Tkinter (incluido en la instalación estándar de Python)
+- Solamente tener descargado el ejecutable
 
 ## Instalación
 
-1. Clona el repositorio:
-   ```
-   git clone <url-del-repositorio>
-   cd Proyecto_Independientes_Python
-   ```
-
-2. Ejecuta la aplicación:
-   ```
-   python main.py
-   ```
+1.- Descarga el ejececutable [Ejecutable](main.exe)
+2.- Doble clic sobre el ejecutable
+3.- Listo puede empezar a utilizar el proyecto.
 
 ## Uso
 
