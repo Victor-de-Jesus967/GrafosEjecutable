@@ -77,4 +77,4 @@ Este proyecto está bajo la Licencia MIT.
 
 ## Autor
 
-Basado en la investigación de Marlene Mijangos Romero. Proyecto desarrollado en noviembre 2025.
+Dr. Marlene Mijangos Romero.
