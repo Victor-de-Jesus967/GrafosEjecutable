@@ -56,12 +56,6 @@ Esto representa un grafo con 4 nodos y 3 aristas en línea.
 
 ![Resultado de cálculo](Imagenes/resultado_calculo.png)
 
-## Pruebas
-
-Ejecuta las pruebas de rendimiento:
-```
-python stress_test.py
-```
 
 Esto genera grafos de malla cuadrada y mide el tiempo de ejecución.
 
@@ -71,7 +65,6 @@ Esto genera grafos de malla cuadrada y mide el tiempo de ejecución.
 - `logic.py`: Motor del algoritmo y clase GraphEngine.
 - `algoritmo-backward-path28P.py`: Versión standalone del algoritmo.
 - `stress_test.py`: Pruebas de rendimiento.
-- `manual_tecnico.md`: Documentación técnica (en desarrollo).
 - `Imagenes/`: Capturas de pantalla y visualizaciones.
 
 ## Contribución
